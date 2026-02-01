@@ -4,7 +4,7 @@ My personal portfolio website showcasing Minecraft plugins and development work.
 
 ## About Me
 
-I'm a Minecraft server owner turned plugin developer. I started coding plugins because I couldn't find exactly what I needed for my server. Now I build tools that just work—no bloat, no confusion.
+I'm a Minecraft server owner turned plugin developer. I started coding plugins back in 2019 because I couldn't find exactly what I needed for my server. Since then, I've been building tools that just work—no bloat, no confusion.
 
 Specializing in performance, clean code, and plugins that don't break on updates.
 
@@ -16,6 +16,7 @@ Check out my Spigot plugins:
 - [QuickDeposit](https://github.com/mattwithabat/QuickDeposit) - Right-click chest depositing
 - [FishingBounties](https://github.com/mattwithabat/FishingBounties) - Fishing challenges
 - [SimpleHomes](https://github.com/mattwithabat/SimpleHomes) - Simple teleportation
+- [MysteryVouchers](https://github.com/mattwithabat/MysteryVouchers) - Mystery vouchers with animations ⭐
 
 ## Getting Started
 
